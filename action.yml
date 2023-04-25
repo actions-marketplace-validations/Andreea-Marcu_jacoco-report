@@ -1,4 +1,4 @@
-name: "JaCoCo Report"
+name: "Jacoco Report PR comment"
 description: "Publishes the JaCoCo report as a comment in the Pull Request"
 inputs:
   paths:
